@@ -50,3 +50,9 @@ td {
 	background-color: black;
 	color: white;
 }
+
+#pdf {
+	margin-top: 50px;
+	text-align: center;
+	height: 1000px;
+}
